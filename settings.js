@@ -18,7 +18,7 @@ Creator : @darkmakerofc , @mr-nima-x
 module.exports = {
   OWNER_NUMBER: "233530729233",
   SUDO_NUMBERS : "94715166712,94719574492",
-  OWNER_NAME: "『B R Y A N T 』",
+  OWNER_NAME: "『B R Y A N T. 』",
   BOT_NAME : "M A D A RA",
   ZUSYCO_FILE : "ZUSYCO-QR",
   LOGOS: {
